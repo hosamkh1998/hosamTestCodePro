@@ -28,6 +28,12 @@
     text-align: justify;
 }
 
+@media screen and (max-width: 600px){
+    .content{
+        text-align: left;
+    }
+}
+
 .importantWord{
     font-weight: 600;
     color: blue;
